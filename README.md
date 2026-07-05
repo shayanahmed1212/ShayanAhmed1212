@@ -56,6 +56,9 @@ visitor@github:~$ cat ./about_me.txt
 [![Docker](https://skillicons.dev/icons?i=docker "Docker")](https://skillicons.dev)
 [![GCP](https://skillicons.dev/icons?i=gcp "GCP")](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql "MySQL")](https://skillicons.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres "PostgreSQL")](https://skillicons.dev)
+[![Redis](https://skillicons.dev/icons?i=redis "Redis")](https://skillicons.dev)
+[![Firebase](https://skillicons.dev/icons?i=firebase "Firebase")](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git "Git")](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github "GitHub")](https://skillicons.dev)
 [![VSCode](https://skillicons.dev/icons?i=vscode "VS Code")](https://skillicons.dev)
@@ -87,7 +90,9 @@ visitor@github:~$ cat ./about_me.txt
 
 * n8n (self-hosted architecture & workflow scaling)
 * Multi-agent AI workflows / state networks
+* LangChain / LangGraph for agent orchestration & tool-calling pipelines
 * AI voice agents — Vapi, Retell AI, Twilio, WhatsApp Cloud API
+* ElevenLabs (text-to-speech) for voice agent pipelines
 * Intent detection systems & automated call routing
 * OpenAI, Claude (Anthropic), and Perplexity API integration
 * Data enrichment pipelines & autonomous lead qualification
@@ -104,6 +109,7 @@ visitor@github:~$ cat ./about_me.txt
 * REST APIs & custom integrations
 * Webhook systems, conditional routing, async processing
 * Data deduplication, rate limiting, fault-tolerant execution
+* Redis caching & rate-limiting layers
 * Dockerized / self-hosted deployments
 * Scalable backend system design
 * CRM sync architecture & Airtable architectures
@@ -114,7 +120,9 @@ visitor@github:~$ cat ./about_me.txt
 <summary><b>🗄️ Database Management</b></summary>
 <br>
 
-* SQL / MySQL
+* SQL / MySQL / PostgreSQL
+* Firebase (Auth & Realtime/Firestore DB)
+* Redis for caching & in-memory data stores
 * Database development, design & administration
 * Keyless entity resolution architectures
 
@@ -139,6 +147,8 @@ visitor@github:~$ cat ./about_me.txt
 
 * Full-stack & front-end development
 * Mobile application development (Flutter)
+* Provider / Riverpod state management (Flutter)
+* Framer Motion animations (React/Next.js)
 * Browser extension development
 * Responsive, pixel-perfect design systems
 * Interactive UI elements & performance optimization
